@@ -17,13 +17,13 @@
 - Software Tools
   - Git
   - JIRA
-  
 ###4. 자격증 (Certificate)
 | 자격증명 | 발급일자 | 발급기관 |
 |:---:|:---:|:---:|
 |정보처리기사|2016.07|한국산업인력공단|
 |2종보통운전면허증|2016.01|서울지방경찰청|
-###~~5. 수상 및 경력 (Career) 나중에~~
-###6. 연락처 (Contact)
+
+
+###5. 연락처 (Contact)
 - github : https://github.com/HYOUJI
 - E-mail : mechuri13@gmail.com
