@@ -9,8 +9,7 @@
 |한성대학교|컴퓨터공학부|2013.03|2017.08|
 ###3. 보유기술 (Technical Skills)
 - Basics
-  - C, C++, Java, HTML5, PHP
-  -
+  - C, C++, Java, HTML5, JSP, PHP
 - Web Development
   - Spring, MyBatis
   - MySql
